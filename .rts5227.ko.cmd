@@ -1,0 +1,1 @@
+cmd_/home/vignesh/Desktop/Realtek_RTS5229_Linux_Driver_v1.07/rts5227/rts5227.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vignesh/Desktop/Realtek_RTS5229_Linux_Driver_v1.07/rts5227/rts5227.ko /home/vignesh/Desktop/Realtek_RTS5229_Linux_Driver_v1.07/rts5227/rts5227.o /home/vignesh/Desktop/Realtek_RTS5229_Linux_Driver_v1.07/rts5227/rts5227.mod.o
